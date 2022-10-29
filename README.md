@@ -1,1 +1,1 @@
-https://img.shields.io/twitter/url?label=%40matsuzen&style=social&url=https%3A%2F%2Ftwitter.com%2Fmatsuzen_VR%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eembeddedtimeline%257Ctwterm%255Escreen-name%253Amatsuzen_VR%257Ctwcon%255Es2
+![twtter](https://img.shields.io/twitter/url?label=%40matsuzen&style=social&url=https%3A%2F%2Ftwitter.com%2Fmatsuzen_VR%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Eembeddedtimeline%257Ctwterm%255Escreen-name%253Amatsuzen_VR%257Ctwcon%255Es2)
